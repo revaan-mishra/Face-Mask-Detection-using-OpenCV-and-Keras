@@ -1,20 +1,15 @@
 
-<h1 align="center">Face Mask Detection using OpenCV and Keras</h1>
+<h1 align="center">Face Mask Detection using Keras and Tensorflow</h1>
 
 <div align="center">
     <strong>A lightweight face mask detection that is easy to deploy</strong>
 </div>
 
-<div align="center"
+<div align="center">
     Trained on Tensorflow/Keras. 
 </div>
 
 <br/>
-
-<div align="center">
-    <img src="./readme_assets/readme_cover.png"/>
-</div>
-
 <br/>
 
 ## Table of Contents
